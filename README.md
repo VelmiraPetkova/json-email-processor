@@ -22,7 +22,7 @@ This repository contains a serverless application for processing JSON objects vi
 5. [Testing](#testing)
 6. [CI/CD Pipeline](#cicd-pipeline)
 7. [Logs and Debugging](#logs-and-debugging)
-8. [License](#license)
+
 
 ---
 
