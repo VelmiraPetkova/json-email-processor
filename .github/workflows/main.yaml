@@ -4,7 +4,7 @@ run-name: "${{ github.actor }} performed ${{github.eventname}} on ${{github.head
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
