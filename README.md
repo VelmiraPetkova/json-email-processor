@@ -1,6 +1,3 @@
-Here’s a suitable **README.md** file and a recommended repository name:
-
----
 
 # JSON Processor and Email Notifier
 
