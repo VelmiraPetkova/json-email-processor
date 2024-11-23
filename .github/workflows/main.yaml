@@ -71,11 +71,3 @@ jobs:
         run: |
           npx cdk deploy
           echo "Deploy successfully!"
-        
-
-
-
-
-
-
-
